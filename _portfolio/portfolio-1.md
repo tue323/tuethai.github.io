@@ -11,24 +11,24 @@ Designed and optimized aerodynamic surfaces to maximize downforce efficiency and
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; text-align: center;">
 
   <div style="flex: 1; min-width: 250px;">
-    <a href="{{ site.baseurl }}rearwing-cfd" target="_blank">
-      <img src="{{ site.baseurl }}rearwing-cfd" style="width: 100%; border-radius: 8px;" />
+    <a href="{{ site.baseurl }}rearwing-cfd.png" target="_blank">
+      <img src="{{ site.baseurl }}rearwing-cfd.png" style="width: 100%; border-radius: 8px;" />
     </a>
     <p><strong>CFD Pressure Contours</strong><br>
     ANSYS Fluent validation of downforce distribution</p>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-    <a href="{{ site.baseurl }}rearwing-cad-model" target="_blank">
-      <img src="{{ site.baseurl }}rearwing-cad-model" style="width: 100%; border-radius: 8px;" />
+    <a href="{{ site.baseurl }}rearwing-cad-model.png" target="_blank">
+      <img src="{{ site.baseurl }}rearwing-cad-model.png" style="width: 100%; border-radius: 8px;" />
     </a>
     <p><strong>Parametric CAD Model</strong><br>
     SolidWorks assembly optimized for manufacturability</p>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
-    <a href="{{ site.baseurl }}rearwing-fcm" target="_blank">
-      <img src="{{ site.baseurl }}rearwing-fcm" style="width: 100%; border-radius: 8px;" />
+    <a href="{{ site.baseurl }}rearwing-fcm.png" target="_blank">
+      <img src="{{ site.baseurl }}rearwing-fcm.png" style="width: 100%; border-radius: 8px;" />
     </a>
     <p><strong>Carbon Fiber Layup</strong><br>
     Wet layup fabrication and routing process</p>
