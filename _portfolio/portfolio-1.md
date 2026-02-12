@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "FSAE Rear Wing"
+excerpt: "Designed and optimized aerodynamic surfaces for TR-26's rear wings to maximize downforce efficiency and improve vehicle cornerning stability using ANSYS Fluent for airfoild validation and SolidWorks for CAD-desings. Currently in the process of manufacturing via carbon fiber wet-layup process. 
+<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
