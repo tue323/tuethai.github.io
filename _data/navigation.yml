@@ -9,16 +9,12 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://tue323.github.io/tuethai.github.io/publications/
 
-  - title: "Talks"
-    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
+
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://tue323.github.io/tuethai.github.io/portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
